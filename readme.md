@@ -24,7 +24,7 @@ You can load the .frag files using the common File\-\>Open dialog - or copy its 
 
 ## Folders:
 - The folder /frags will contain frags independent from any publishing elsewhere. Any possible development will happen here.  
-- The folder /published-samples will contain frags published elsewhere (currently at fractalforums.org only).    
+- The folder [/published-samples](published-samples/) will contain frags published elsewhere (currently at fractalforums.org only).    
   The files will not be changed (beyond any possible improvements of non-functional parts like documentation etc).   
   Even corrections would result in new files to keep compatibility with the existing forum threads.   
   
