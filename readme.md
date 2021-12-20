@@ -1,22 +1,20 @@
 # Formula, and sample .frags for the Fragmentarium program
 
 ## Intention, notes:
-**This repository is thought as a playground for any sort of GLSL .frag files that can be used for the fractal oriented GLSL shader program Fragmentarium (Frag M), and which are not (yet) thought to be incorporated into the actual distribution.**
+**This repository is thought as a playground for any sort of GLSL .frag files that can be used for the fractal oriented GLSL shader program Fragmentarium (Frag M), and which are not (yet) thought to be incorporated into the actual distribution.    
+This is true especially for the /published-samples/ folder.**    
+I don't want to spam the program with all the frags that may come up. As said this repository is more a playground.
+If I should feel comfortable in the future to contribute to the official repository I will follow e.g. the notes in the fractalforums [here](https://fractalforums.org/fragmentarium/17/how-to-enable-a-contribution-folder-in-the-fragmentarium-examples-repo/3488).
 
 The current active variant of Fragmentarium can be found at https://github.com/3Dickulus/FragM   
 Formulas are (also) available at https://github.com/3Dickulus/Fragmentarium_Examples_Folder   
 
 Originally these `ABC-formulas` repositories were mainly intended to publish my own formulas, and related samples for the several fractal programs I use.   
 This was mainly since I found that I need a central place for my formulas rather to have them scattered across the fractal forums, deviantart etc.   
-Also I made the experience in earlier days in Ultrafractal that versioning 'by hand' is really a nightmare - I know, that should be self-eveident for any 'real' developer, but I don't see me as true developer, and hence I felt into that trap...   
+Also I made the experience in earlier days in Ultrafractal that versioning 'by hand' is really a nightmare - I know, that should be self-evident for any 'real' developer, but I don't see me as true developer, and hence I felt into that trap...   
 
 However, while thinking about the way to build such a central repository I came to the conlusion that I would like to follow more the common open source approach, and to publish the formulas in a way that everyone can contribute.   
 Therefore - Please feel free to contribute, ask for changes / corrections / improvements, to add your comments, and questions etc.   
-
-**Important note:** 
-This repostiory will **not** be used for formulas for the official Fragmentarium repository - I don't want to spam the program with all the frags that may come up. As said it is more a playground.   
-To add formulas to the official package please use the official way as described in the readme of the FragM repository (and also in the [forums](https://fractalforums.org/fragmentarium/17/how-to-enable-a-contribution-folder-in-the-fragmentarium-examples-repo/3488))   
-If I should feel comfortable in the future to do so I will link the according repository here as well.   
 
 ## Usage:
 To use this .frag files you should generally know how to work with Fragmentarium.   
@@ -24,9 +22,9 @@ You can load the .frag files using the common File\-\>Open dialog - or copy its 
 
 ## Folders:
 - The folder /frags will contain frags independent from any publishing elsewhere. Any possible development will happen here.  
-- The folder [/published-samples](published-samples/) will contain frags published elsewhere (currently at fractalforums.org only).    
-  The files will not be changed (beyond any possible improvements of non-functional parts like documentation etc).   
-  Even corrections would result in new files to keep compatibility with the existing forum threads.   
+- The folder [/published-samples](published-samples/) contains frags published elsewhere (currently at fractalforums.org only).    
+  The files will not be changed, beyond any possible improvements of non-functional parts like documentation etc.   
+  Other corrections would result in new files to keep compatibility with the existing forum threads.   
   
 ## Disclaimer:
 The formulas have been tested on my box (currently a Windows 10 with an old AMD 280X card) - and sometimes nowhere else.   
