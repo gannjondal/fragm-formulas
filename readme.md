@@ -1,13 +1,12 @@
 # Formula, and sample .frags for the Fragmentarium program
 
-## Intention, notes:
-**This repository is thought as a playground for any sort of GLSL .frag files that can be used for the fractal oriented GLSL shader program Fragmentarium (Frag M), and which are not (yet) thought to be incorporated into the actual distribution.    
-This is true especially for the /published-samples/ folder.**    
-I don't want to spam the program with all the frags that may come up. As said this repository is more a playground.
-If I should feel comfortable in the future to contribute to the official repository I will follow e.g. the notes in the fractalforums [here](https://fractalforums.org/fragmentarium/17/how-to-enable-a-contribution-folder-in-the-fragmentarium-examples-repo/3488).
+## Intention, Notes:
+**This repository is thought as a playground for any sort of GLSL .frag files that can be used for the fractal oriented GLSL shader program Fragmentarium (FragM), _and which are not (yet) thought to be incorporated into the actual distribution._**     
+I don't want to spam the program with all the frags that may come up, especially in any forum, or gallery threads. As said this repository is more a playground.
 
-The current active variant of Fragmentarium can be found at https://github.com/3Dickulus/FragM   
-Formulas are (also) available at https://github.com/3Dickulus/Fragmentarium_Examples_Folder   
+The current active variant of Fragmentarium can be found at https://github.com/3Dickulus/FragM - Please note that my frags are only developed for, and tested on Fragmentarium releases from that fork.  
+The formulas shared with distribution are developed under https://github.com/3Dickulus/Fragmentarium_Examples_Folder   
+My own contributions for this Examples folder are/will be available at https://github.com/gannjondal/fragm-examples .
 
 Originally these `ABC-formulas` repositories were mainly intended to publish my own formulas, and related samples for the several fractal programs I use.   
 This was mainly since I found that I need a central place for my formulas rather to have them scattered across the fractal forums, deviantart etc.   
@@ -28,8 +27,9 @@ You can load the .frag files using the common File\-\>Open dialog - or copy its 
   
 ## Disclaimer:
 The formulas have been tested on my box (currently a Windows 10 with an old AMD 280X card) - and sometimes nowhere else.   
+Also the formulas are exclusively tested on Fragmentarium releases from the fork https://github.com/3Dickulus/FragM .
 I know that glsl code is highly dependent from the hardware, especially there are differences in impementation between the hardware producers.   
-But I neither have the capacity, nor the intention to test them somewhere else than on my normal boxes.   
+But I neither have the capacity, nor the intention to test them somewhere else than on my normal boxes, or any other potential release, or fork.   
 Hence I cannot provide any warranty for this code. -    
 Please however do not hesitate to share your experiences, or to add code that helps to run it on other hardware.   
 As of now I'm publishing all of my formulas under the LGPL license (see the according license file if you really should like that stuff)...   
